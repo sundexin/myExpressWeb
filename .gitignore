@@ -1,0 +1,8 @@
+node_modules
+.idea
+webpack-config-log.json
+npm-debug.log
+.DS_Store
+untitled.package.json
+webpack
+webpack.config.bak.js
